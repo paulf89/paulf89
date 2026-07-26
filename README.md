@@ -41,4 +41,4 @@
 [<img src="https://www.r-project.org/Rlogo.png" width="40" />](https://www.r-project.org/)&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />](https://www.python.org/)&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />](https://www.linux.org/)&nbsp;
-
+[<img src="https://www.vectorlogo.zone/logos/nextflowio/nextflowio-icon.svg" width="40" />](https://www.nextflow.io/)&nbsp;
