@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Paul Fernandez
-
-<h3 align="center">Molecular Biologist | Microbiologist | Bioinformatician.</h3>
+,  and s
+<h3 align="center">Molecular Biology | Microbiology | Bioinformatics.</h3>
 <!--- Descripcion de Bioinfo ----->
 
 - 🔬 Researcher at **Universidad Nacional Toribio Rodríguez de Mendoza (UNTRM)**
