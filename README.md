@@ -1,5 +1,4 @@
-## Hi there 👋, I'm Paul Fernandez
-,  and s
+<h1 align="center">Hi there 👋, I'm Paul Fernandez</h1>
 <h3 align="center">Molecular Biology | Microbiology | Bioinformatics.</h3>
 <!--- Descripcion de Bioinfo ----->
 
