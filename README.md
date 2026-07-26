@@ -1,16 +1,38 @@
-## Hi there 👋 I'm Paul Fernandez
+## Hi there 👋, I'm Paul Fernandez
 
-<!--
-**paulf89/paulf89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Molecular Biologist | Microbiologist | Bioinformatician.</h3>
+<!--- Descripcion de Bioinfo ----->
 
-Here are some ideas to get you started:
+- 🔬 Researcher at **Universidad Nacional Toribio Rodríguez de Mendoza (UNTRM)**
+- 🧫 My research focuses on **Antimicrobial Resistance (AMR), Molecular Biology and Microbiology**
+- 🧬 I’m interested in **Bioinformatics, Genomics, Metagenomics and Transcriptmics**
+- 💬 Ask me about **AMR, Molecular Biology, Microbiology and Bioinformatics**
+- 📫 Reach me at **ferpantonio@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">🌐 Connect with me</h3>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/paul-antonio-fernandez-castro-33117b76/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn"
+      width="32"
+      height="32" />
+  </a>
+
+  <a href="https://www.researchgate.net/profile/Paul-Fernandez-Castro-3?ev=hdr_xprf" target="_blank">
+    <img
+      src="https://cdn.simpleicons.org/researchgate/00CCBB"
+      alt="ResearchGate"
+      width="32"
+      height="32" />
+  </a>
+
+  <a href="https://orcid.org/0000-0002-3804-9411" target="_blank">
+    <img
+      src="https://cdn.simpleicons.org/orcid/A6CE39"
+      alt="ORCID"
+      width="32"
+      height="32" />
+  </a>
+</p>
