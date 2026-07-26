@@ -4,7 +4,7 @@
 
 - 🔬 Researcher at **Universidad Nacional Toribio Rodríguez de Mendoza (UNTRM)**
 - 🧫 My research focuses on **Antimicrobial Resistance (AMR), Molecular Biology and Microbiology**
-- 🧬 I’m interested in **Python, Bioinformatics, Genomics, Metagenomics and Transcriptmics**
+- 🧬 I’m interested in **Python, Bioinformatics, Genomics, Metagenomics and Transcriptomics**
 - 💬 Ask me about **AMR, Molecular Biology, Microbiology and Bioinformatics**
 - 📫 Reach me at **ferpantonio@gmail.com**
 
