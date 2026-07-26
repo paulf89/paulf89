@@ -27,12 +27,6 @@
       height="32" />
   </a>
 
-  ### 🛠️ Languages and Tools
-
-[<img src="https://www.r-project.org/Rlogo.png" width="40" />](https://www.r-project.org/)&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />](https://www.python.org/)&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />](https://www.linux.org/)&nbsp;
-
   <a href="https://orcid.org/0000-0002-3804-9411" target="_blank">
     <img
       src="https://cdn.simpleicons.org/orcid/A6CE39"
@@ -41,3 +35,10 @@
       height="32" />
   </a>
 </p>
+
+### 🛠️ Languages and Tools
+
+[<img src="https://www.r-project.org/Rlogo.png" width="40" />](https://www.r-project.org/)&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />](https://www.python.org/)&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />](https://www.linux.org/)&nbsp;
+
